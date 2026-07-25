@@ -3,7 +3,6 @@
 - **Name:** Abdikhafaar Hassan Dhaqane
 - **GitHub username:** Eng-Abdikhafaar
 - **Repository URL:** https://github.com/Eng-Abdikhafaar/Exercise-One.git
-                      https://github.com/Eng-Abdikhafaar/Exercise-Two.git
 
 ## Confirmation
 
