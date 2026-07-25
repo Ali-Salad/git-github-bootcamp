@@ -1,7 +1,7 @@
 # Assignment 1 — Git Basics
 
 - **Name:** Nasteho abdi aden
-- **GitHub username:**nastehoabdiaden46-a11y
+- **GitHub username:** nastehoabdiaden46-a11y
 - **Repository URL:** https://github.com/nastehoabdiaden46-a11y/learning-git-and-github
 
 ## Confirmation
