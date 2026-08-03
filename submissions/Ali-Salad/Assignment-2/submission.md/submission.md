@@ -2,7 +2,7 @@
 
 - **Name:** Ali Ahmed Salad
 - **GitHub username:** Ali-Salad
-- **Repository URL:**  https://github.com/Ali-Salad/git_basics
+- **Repository URL:** https://github.com/Ali-Salad/git_basics
 - **Actions run URL:** https://github.com/Ali-Salad/git_basics/actions/runs/30839470957
 
 ## Confirmation
